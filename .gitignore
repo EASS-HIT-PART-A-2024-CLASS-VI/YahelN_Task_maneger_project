@@ -24,8 +24,4 @@ env/
 # Ignoring any node_modules folder if it's part of frontend
 node_modules/
 
-# Ignoring the frontend, backend, and Task-manager directories
-frontend/
-backend/
-Task-manager/
 

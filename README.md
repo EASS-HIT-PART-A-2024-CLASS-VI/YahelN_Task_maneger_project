@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# YahelN_Task_maneger_project
+>>>>>>> 6f5426d469f31bf4d255dd706d1a046f3a62d987
 # Task-manager-project
 
 **Task Manager** is a full-stack application built to help users manage their tasks effectively. 
@@ -170,4 +174,8 @@ Open a pull request to merge your changes into the main branch.
 We welcome contributions!
 
 ## Demo
+<<<<<<< HEAD
 Watch a demo of the Task Manager in action: https://youtu.be/C9nLInSL3gQ
+=======
+Watch a demo of the Task Manager in action: https://youtu.be/CB5FGZRF7JM
+>>>>>>> 6f5426d469f31bf4d255dd706d1a046f3a62d987
